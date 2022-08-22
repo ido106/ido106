@@ -1,8 +1,8 @@
 ### Hi there 👋
 Im Ido, a 3rd year Computer Science student at Bar-Ilan University.  
+<br />
 
 ### Connect with me :telephone:
-
 <table>
     <tbody>
         <tr>
@@ -17,16 +17,17 @@ Im Ido, a 3rd year Computer Science student at Bar-Ilan University.
             </a></td>
         </tr>
     </tbody>
-</table>
+</table>  
+<br />
 
 ### Programming Languages :sun_with_face:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ido106&layout=compact"/>
+<br />
 
 ### Tools :wrench:
-
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height=50 src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"> <img alt="InteliJ" height=50 src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ido106"/>
 
