@@ -5,13 +5,13 @@ Im Ido, a 3rd year Computer Science student at Bar-Ilan University.
 <table>
     <tbody>
         <tr>
-            <td><a href="https://www.linkedin.com/in/ido-aharon/">
+            <td><a href="https://www.linkedin.com/in/ido-aharon/" target=”_blank”>
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://www.facebook.com/ido.aharon.94">
+            <td><a href="https://www.facebook.com/ido.aharon.94" target=”_blank”>
             <img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
             </a></td>
-            <td><a href="https://www.instagram.com/ido_106/">
+            <td><a href="https://www.instagram.com/ido_106/" target=”_blank”>
             <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
             </a></td>
         </tr>
