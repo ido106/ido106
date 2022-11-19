@@ -29,7 +29,9 @@ Im Ido, a 3rd year Computer Science student at Bar-Ilan University.
 ### Tools :wrench:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  <img height=50 src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png">  <img alt="InteliJ" height=50 src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png">  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ido106"/>
+-->
 
 <!--
 github user stats:
