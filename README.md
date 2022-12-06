@@ -1,5 +1,6 @@
 ### Hi there 👋
 Im Ido, a 3rd year Computer Science student at Bar-Ilan University.  
+Currently working as Software Engineer at Red Hat.
 <br />
 
 ### Connect with me :telephone:
