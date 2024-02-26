@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ido, M.Sc. Computer Science student at Bar-Ilan University, finishing my bachelor's degree in Computer Science at the end of next semester.  
+I am Ido, a B.Sc computer science graduate at Bar-Ilan University. I am currently pursuing my Masters degree at Bar-Ilan university, specializing in AI.
 Currently working as Software Engineer at <a href="https://www.redhat.com/en" target="_blank">Red Hat</a>.
 <br />
 
