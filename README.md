@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Ido, a B.Sc computer science graduate at Bar-Ilan University.  
-I am currently pursuing my Masters degree at Bar-Ilan university, specializing in AI.  
-Currently working as Software Engineer at <a href="https://www.redhat.com/en" target="_blank">Red Hat</a>.
+I am currently pursuing my Masters degree at Bar-Ilan university, specializing in AI with thesis.  
+Software Engineer.
 <br />
 
 ### Connect with me :telephone:
