@@ -11,12 +11,6 @@ Software Engineer.
             <td><a href="https://www.linkedin.com/in/ido-aharon/" target=”_blank”>
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://www.facebook.com/ido.aharon.10" target=”_blank”>
-            <img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
-            </a></td>
-            <td><a href="https://www.instagram.com/ido_106/" target=”_blank”>
-            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
-            </a></td>
         </tr>
     </tbody>
 </table>  
